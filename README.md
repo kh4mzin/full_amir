@@ -17,7 +17,7 @@ Installation
 bash
 Copy code
 # Clone the repository
-git clone [https://github.com/kh4mzin/full-amir.git]
+git clone [https://github.com/kh4mzin/full_amir.git]
 
 # Install dependencies
 [npm install]
